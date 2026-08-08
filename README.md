@@ -61,3 +61,9 @@
 ### 将做好的项目或者修改后的项目推送(Push)到Github上
 
 ![1786154888763](C:\Users\84449\AppData\Roaming\Typora\typora-user-images\1786154888763.png)
+
+
+
+### 推送(Push)完成,在Github上刷新就能看到了
+
+![1786155310018](C:\Users\84449\AppData\Roaming\Typora\typora-user-images\1786155310018.png)
